@@ -1,0 +1,7 @@
+DEFINIR
+    reciever_email
+    message["Subject"] 
+    text
+
+Se hace una función a la que se le dará una ruta absoluta de archivo csv, datos de conexión fixed 
+y emisor fixed. Serán dinámicos el asunto, el cuerpo y los adjuntos.
