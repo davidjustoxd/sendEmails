@@ -58,7 +58,7 @@ with open (file) as csv_file:
             attach = row[1]
             subject = row[2]
             body = row[3]
-            enviar_email('miskojones98@gmail.com', '!abc123.,',subject, body, mail, attach)
+            enviar_email('miskojones98@gmail.com', CONTRASEÑA ,subject, body, mail, attach)
             
     
 
